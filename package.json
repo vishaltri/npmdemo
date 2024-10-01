@@ -1,0 +1,14 @@
+{
+  "name": "npmdemo",
+  "version": "1.0.0",
+  "description": "This is my npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Vishal",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
